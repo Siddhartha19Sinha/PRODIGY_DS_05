@@ -1,4 +1,12 @@
-# 🚗📊 Accident Analysis and Visualization
+# PRODIGY_DS_05 🌟
+# 🚗 ACCIDENT ANALYSIS AND VISUALIZATION 📊
+
+##
+![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_05/blob/main/Image1.jpg)
+![Image 2](https://github.com/Siddhartha19Sinha/PRODIGY_DS_05/blob/main/Image2.png)
+![Image 3](https://github.com/Siddhartha19Sinha/PRODIGY_DS_05/blob/main/Image3.png)
+
+---
 
 🔍📈 This repository presents an in-depth analysis and visualization of accident data, focusing on various factors such as driver demographics, road conditions, weather conditions, collision types, and more. The dataset used for analysis is available as "cleaned.csv".
 
@@ -14,7 +22,7 @@
 1. 📥 Clone the repository:
 
 ```
-https://github.com/Debolina10Chatterjee/PRODIGY_DS_05.git
+https://github.com/Siddhartha19Sinha/PRODIGY_DS_05/blob/main/README.md
 ```
 
 2. 🚀 Open and run the "accident_analysis.ipynb" notebook in Colab Notebook to execute the Python code cells and visualize the data analysis.
@@ -44,6 +52,6 @@ The analysis is accompanied by various visualizations including bar plots, histo
 
 ## 📧 Contact
 
-For any questions or suggestions, feel free to contact Debolina Chatterjee at debolinachatterjee1011@gmail.com (mailto:debolinachatterjee1011@gmail.com).
+For any questions or suggestions, feel free to contact me at [siddhartha19sinha@gmail.com](mailto:siddhartha19sinha@gmail.com).
 
 
