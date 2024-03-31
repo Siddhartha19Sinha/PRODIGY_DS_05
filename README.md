@@ -25,13 +25,13 @@
 https://github.com/Siddhartha19Sinha/PRODIGY_DS_05/blob/main/README.md
 ```
 
-2. 🚀 Open and run the "accident_analysis.ipynb" notebook in Colab Notebook to execute the Python code cells and visualize the data analysis.
+2. 🚀 Open and run the "Visualization_2.ipynb" notebook in Colab Notebook to execute the Python code cells and visualize the data analysis.
 
 3. 🔍 Explore the insights and visualizations generated to gain a better understanding of accident patterns and contributing factors.
 
 ## 📊 Data Analysis
 
-The Jupyter Notebook file "accident_analysis.ipynb" contains Python code for data analysis and visualization.
+The Jupyter Notebook file "Visualization_2.ipynb" contains Python code for data analysis and visualization.
 
 - 🚘 **Importing and Exploring Data**: The dataset is imported using Pandas, and basic information like data types and summary statistics are explored.
 - 👩‍✈️ **Accident Count by Sex of Driver**: Visualizes the count of accidents based on the sex of the driver using a bar plot.
